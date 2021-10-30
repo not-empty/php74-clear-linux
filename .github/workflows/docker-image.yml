@@ -60,4 +60,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${IMAGE_ID}:latest
+          tags: ${IMAGE_NAME}:latest
